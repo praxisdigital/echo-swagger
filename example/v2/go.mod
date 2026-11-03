@@ -5,8 +5,8 @@ go 1.25.0
 replace github.com/swaggo/echo-swagger => ../../
 
 require (
-	github.com/labstack/echo/v5 v5.0.0
-	github.com/swaggo/echo-swagger v1.4.1
+	github.com/labstack/echo/v5 v5.4.1
+	github.com/swaggo/echo-swagger/v2 v2.0.1
 	github.com/swaggo/swag v1.16.2
 )
 
